@@ -1,0 +1,7 @@
+[submodule ".emulationstation/themes/simpler-turtlepi"]
+	path = .emulationstation/themes/simpler-turtlepi
+	url = git://github.com/Omnija/es-theme-simpler-turtlepi.git
+[submodule ".emulationstation/themes/tronkyfran"]
+	path = .emulationstation/themes/tronkyfran
+	url = git://github.com/HerbFargus/es-theme-tronkyfran.git
+	

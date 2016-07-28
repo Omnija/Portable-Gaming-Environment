@@ -1,0 +1,1 @@
+.emulationstation\systems\stratagus\stratagus.exe -d .emulationstation\roms\ports\stratagus\stargus

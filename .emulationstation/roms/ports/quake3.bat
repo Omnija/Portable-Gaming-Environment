@@ -1,0 +1,1 @@
+.emulationstation\systems\ioquake3\ioquake3.x86.exe +set fs_homepath .emulationstation\roms\ports\quake3\
