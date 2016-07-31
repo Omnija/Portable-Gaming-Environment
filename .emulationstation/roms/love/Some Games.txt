@@ -1,0 +1,5 @@
+Love Version 0.10.1
+Mari0 = https://github.com/Stabyourself/mari0
+90 Second Portaits = https://tangramgames.itch.io/90-second-portraits
+Beat Feaver = https://love2d.org/forums/viewtopic.php?t=82021
+MR Rescue = http://tangramgames.dk/games/mrrescue/
